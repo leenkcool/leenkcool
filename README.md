@@ -18,77 +18,47 @@
 
 ## 🚀 主打项目
 
-<table>
-  <tr>
-    <td width="50%" valign="top" style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:20px 24px">
-
-### 🌊 Blue-Whale-Harness
+### 🌊 [Blue-Whale-Harness](https://github.com/leenkcool/Blue-Whale-Harness)
 
 **DeepSeek Harness 插件目录 · Everything is a Plugin**
 
 收集 DeepSeek Harness（DSH）生态插件的开放目录：一键收录、分类浏览、中英文站点自动生成。让 DSH 生态里的每一款插件都被发现、被接入。
 
-<p>
-  <img src="https://img.shields.io/github/stars/leenkcool/Blue-Whale-Harness?style=flat-square&logo=github&label=stars" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/leenkcool/Blue-Whale-Harness?style=flat-square&logo=github&label=forks" alt="forks"/>
-  <img src="https://img.shields.io/github/license/leenkcool/Blue-Whale-Harness?style=flat-square&color=purple" alt="license"/>
-</p>
+[![GitHub stars](https://img.shields.io/github/stars/leenkcool/Blue-Whale-Harness?style=flat-square&logo=github)](https://github.com/leenkcool/Blue-Whale-Harness)
+[![GitHub forks](https://img.shields.io/github/forks/leenkcool/Blue-Whale-Harness?style=flat-square&logo=github)](https://github.com/leenkcool/Blue-Whale-Harness)
+[![License](https://img.shields.io/github/license/leenkcool/Blue-Whale-Harness?style=flat-square&color=purple)](https://github.com/leenkcool/Blue-Whale-Harness)
 
 **🗺️ 路线图：收集 → 精选 → 发行版**
 
-<ul style="margin:6px 0 0; padding-left:18px">
-  <li>✅ <strong>插件目录</strong>（当前）— 收录 DSH 生态插件，一键 intake，中英文站点自动生成</li>
-  <li>🚧 <strong>精选插件</strong>（下一步）— 人工评审 + Featured 标注，淘出高质量插件</li>
-  <li>🎯 <strong>企业定制 DSH 发行版</strong>（终极目标）— 面向企业私有化场景的 Blue-Whale-Harness 发行版</li>
-</ul>
+- ✅ **插件目录**（当前）— 收录 DSH 生态插件，一键 intake，中英文站点自动生成
+- 🚧 **精选插件**（下一步）— 人工评审 + Featured 标注，淘出高质量插件
+- 🎯 **企业定制 DSH 发行版**（终极目标）— 面向企业私有化场景的 Blue-Whale-Harness 发行版
 
-**🔗 [查看仓库](https://github.com/leenkcool/Blue-Whale-Harness) · [浏览目录](https://leenkcool.github.io/)**
+🔗 [查看仓库](https://github.com/leenkcool/Blue-Whale-Harness) · [浏览目录](https://leenkcool.github.io/)
 
-    </td>
-    <td width="50%" valign="top" style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:20px 24px">
+---
 
-### 🧠 Human as Agent
+### 🧠 [Human as Agent](https://github.com/leenkcool/humanasllm)
 
 **人即智能体 · Human-as-LLM 人工代理网关**
 
 把工程师作为「人肉大模型」接入多模型 Agent 调度框架。对外完全兼容 OpenAI `/v1`，调度池新增 `human-llm` 模型路由即可接入。涉密/私有/需人工判断的任务派发给真实工程师，分级治理 + 审批流 + 审计哈希链，AI 工作链路不中断。
 
-<p>
-  <img src="https://img.shields.io/github/stars/leenkcool/humanasllm?style=flat-square&logo=github&label=stars" alt="stars"/>
-  <img src="https://img.shields.io/github/license/leenkcool/humanasllm?style=flat-square&color=purple" alt="license"/>
-  <img src="https://img.shields.io/badge/OpenAI_Compatible-%2Fv1-22c55e?style=flat-square" alt="openai"/>
-</p>
+[![GitHub stars](https://img.shields.io/github/stars/leenkcool/humanasllm?style=flat-square&logo=github)](https://github.com/leenkcool/humanasllm)
+[![License](https://img.shields.io/github/license/leenkcool/humanasllm?style=flat-square&color=purple)](https://github.com/leenkcool/humanasllm)
+[![OpenAI Compatible](https://img.shields.io/badge/OpenAI_Compatible-%2Fv1-22c55e?style=flat-square)](https://github.com/leenkcool/humanasllm)
 
-**🔗 [查看仓库](https://github.com/leenkcool/humanasllm) · [在线演示](https://humanasllm.anytd.com/)**
-
-    </td>
-  </tr>
-</table>
+🔗 [查看仓库](https://github.com/leenkcool/humanasllm) · [在线演示](https://humanasllm.anytd.com/)
 
 ---
 
 ## 👑 身份与荣誉
 
-<p>
-  <strong>🛠️ 创办</strong><br/>
-  <span style="background-color:#1f6feb;color:#ffffff;border-radius:20px;padding:4px 14px;font-size:14px">🐋 DeepSeek Harness 蓝鲸社区联合创办人</span>
-  <span style="background-color:#1f6feb;color:#ffffff;border-radius:20px;padding:4px 14px;font-size:14px">🧠 AI 精英社创办人</span>
-  <span style="background-color:#1f6feb;color:#ffffff;border-radius:20px;padding:4px 14px;font-size:14px">💻 码码 AI 创办人</span>
-</p>
-
-<p>
-  <strong>🏆 头衔</strong><br/>
-  <span style="background-color:#8957e5;color:#ffffff;border-radius:20px;padding:4px 14px;font-size:14px">🏢 前海外上市公司高管</span>
-  <span style="background-color:#8957e5;color:#ffffff;border-radius:20px;padding:4px 14px;font-size:14px">🎓 行业技术精英会华北区负责人</span>
-  <span style="background-color:#8957e5;color:#ffffff;border-radius:20px;padding:4px 14px;font-size:14px">🏛️ 多家互联网协会会员</span>
-</p>
-
-<p>
-  <strong>🎖️ 专业</strong><br/>
-  <span style="background-color:#9e6a03;color:#ffffff;border-radius:20px;padding:4px 14px;font-size:14px">🛡️ 2004 微软备案白帽子</span>
-  <span style="background-color:#9e6a03;color:#ffffff;border-radius:20px;padding:4px 14px;font-size:14px">🔁 Any to do 理念布道者</span>
-  <span style="background-color:#9e6a03;color:#ffffff;border-radius:20px;padding:4px 14px;font-size:14px">🧑‍🏫 万能 FDE 导师</span>
-</p>
+| 🛠️ 创办 | 🏆 头衔 | 🎖️ 专业 |
+| --- | --- | --- |
+| 🐋 DSH 蓝鲸社区联合创办人 | 🏢 前海外上市公司高管 | 🛡️ 2004 微软备案白帽子 |
+| 🧠 AI 精英社创办人 | 🎓 行业技术精英会华北区负责人 | 🔁 Any to do 理念布道者 |
+| 💻 码码 AI 创办人 | 🏛️ 多家互联网协会会员 | 🧑‍🏫 万能 FDE 导师 |
 
 ---
 
