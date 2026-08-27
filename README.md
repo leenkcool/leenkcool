@@ -90,10 +90,9 @@
 
 ## 📈 GitHub 统计
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leenkcool&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leenkcool&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</p>
+[![Total Stars](https://img.shields.io/github/stars/leenkcool?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=22c55e&label=Total%20Stars)](https://github.com/leenkcool)
+[![Followers](https://img.shields.io/github/followers/leenkcool?style=for-the-badge&logo=github&logoColor=white&color=gray&label=Followers)](https://github.com/leenkcool)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fleenkcool&query=public_repos&style=for-the-badge&logo=github&logoColor=white&color=0ea5e9&label=Public%20Repos)](https://github.com/leenkcool)
 
 ---
 
